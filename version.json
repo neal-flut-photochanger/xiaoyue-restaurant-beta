@@ -1,0 +1,429 @@
+{
+  "edition": "好友内测 B1",
+  "version": "0.1.0",
+  "createdAt": "2026-11-14T21:41:41.870Z",
+  "htmlSha256": "8bb56c3ba1cc159b03dda3eeca13d702241c1ea349301797abd25dd38f7cd3d9",
+  "htmlBytes": 37975322,
+  "assets": [
+    {
+      "path": "assets/audio/click.wav",
+      "bytes": 2202,
+      "sha256": "e98ff032e07dea6dbf2f631ea822e5999acc2c3b48f124036f0d51106a386520"
+    },
+    {
+      "path": "assets/audio/day-settlement.mp3",
+      "bytes": 9743,
+      "sha256": "5a27f8f76bbefbd654506cef9d84bc5d43a8f6168720bd75791e142bc1156ba1"
+    },
+    {
+      "path": "assets/audio/festival-eve.mp3",
+      "bytes": 180627,
+      "sha256": "6c5ee4f6b83c6d3c7187194def0b15d99a36bb9bd6f2c76e8922110471ae6431"
+    },
+    {
+      "path": "assets/audio/flowerbed-fields.mp3",
+      "bytes": 636255,
+      "sha256": "8d4915cc1bc57ddba71b5aa6892f3ebffeb74a16af42f80a42875f29d26885bb"
+    },
+    {
+      "path": "assets/audio/neal-coin.wav",
+      "bytes": 11652,
+      "sha256": "e064900be17d50659b25da28a02ddbcb534ba30203971b5aed913a41df3a555a"
+    },
+    {
+      "path": "assets/audio/rare-item.mp3",
+      "bytes": 4257,
+      "sha256": "497c723389e3289c3904326be0b1b19a0e754a20b6406adafa6b73dd5d428156"
+    },
+    {
+      "path": "assets/sprites/brown-tabby-maine-coon-atlas-v2.png",
+      "bytes": 261048,
+      "sha256": "2cff504fe126e3ae99e2705824da9f603c731033069849d34460b701a0a4a751"
+    },
+    {
+      "path": "assets/sprites/brunch-dishes-atlas-v1.png",
+      "bytes": 85597,
+      "sha256": "67c0c0bda0d678ee3aaf68bb34018a0355e0a1162e1ce852b3c5718ba3fc75a7"
+    },
+    {
+      "path": "assets/sprites/brunch-dishes-atlas-v2.png",
+      "bytes": 82075,
+      "sha256": "00c4820f5c83aea24af1101e5c4ebb53deabe71902e5e9fe97e960a238f934cb"
+    },
+    {
+      "path": "assets/sprites/brunch-dishes-atlas-v3.png",
+      "bytes": 86726,
+      "sha256": "577d02eae7a1fdb9ba3fef21eaf5921b74aa3d45bd0390c9b8eac333d6d657cc"
+    },
+    {
+      "path": "assets/sprites/customers-atlas-v1.png",
+      "bytes": 110382,
+      "sha256": "4018a6233377ca8a4655269293ca9f13e18b2291f3053673d1dfb3a441087c79"
+    },
+    {
+      "path": "assets/sprites/customers-atlas-v2.png",
+      "bytes": 119792,
+      "sha256": "228beebcdad014f97a6e4f9197009e5c81b9de7f9202a604a6ed5211a537a0f8"
+    },
+    {
+      "path": "assets/sprites/customers-atlas-v3.png",
+      "bytes": 108740,
+      "sha256": "ded9c54a88be383ea2131492bd1fe71afd650b7fe1f13dbe26b1e113d781c595"
+    },
+    {
+      "path": "assets/sprites/customers-shadow-v1.png",
+      "bytes": 22717,
+      "sha256": "bba6ddafef169a0fd6763589675f7d675033df2344b1e7460f7587a025c89358"
+    },
+    {
+      "path": "assets/sprites/customers-shadow-v2.png",
+      "bytes": 25465,
+      "sha256": "8bce5c2b39f3b6d0fa3c1ec00d655a593ddbe3edb418e095e4af2d7d86dcf2e5"
+    },
+    {
+      "path": "assets/sprites/customers-shadow-v3.png",
+      "bytes": 23085,
+      "sha256": "a3fb6c823f3b7342515a3a4a41539f961265bd73de7f508529e43d0da98fbac9"
+    },
+    {
+      "path": "assets/sprites/diagonal-customers-a-v2.png",
+      "bytes": 434724,
+      "sha256": "fe04351fd3a7df3cb5368753b853b27523e230864de9a9bec7f549663824dfef"
+    },
+    {
+      "path": "assets/sprites/diagonal-customers-b-v2.png",
+      "bytes": 466079,
+      "sha256": "78a78e36f820db6827ac598f171d8b24dcafec9833d11e7af90d7eebb2752eab"
+    },
+    {
+      "path": "assets/sprites/diagonal-customers-c-v2.png",
+      "bytes": 425933,
+      "sha256": "7eb2308a7a44bdcfc7b65bf34274f7f727b556c3d306b0e9646f04fd4c951ae8"
+    },
+    {
+      "path": "assets/sprites/diagonal-guides-v1.png",
+      "bytes": 435853,
+      "sha256": "37cdf6f2aee1b3b983b75ef6020703721b864d36fe98193337d4a8a6ea636498"
+    },
+    {
+      "path": "assets/sprites/diagonal-service-v1.png",
+      "bytes": 400691,
+      "sha256": "451f0e3f46027ae3896682c98c37ca299f7d89bb9e3d18d41b2e08a150a258cf"
+    },
+    {
+      "path": "assets/sprites/diagonal-staff-a-v1.png",
+      "bytes": 474979,
+      "sha256": "5ba84b8bfd36b49fe7f1ab4f57f55fd94622fc9e2672dac42d317b8c649a279b"
+    },
+    {
+      "path": "assets/sprites/diagonal-staff-b-v1.png",
+      "bytes": 486206,
+      "sha256": "57188f88ebaa684724967e6cd6038fbfd870679bcfa24a0101e06e8961c292f7"
+    },
+    {
+      "path": "assets/sprites/diagonal-staff-c-v1.png",
+      "bytes": 424435,
+      "sha256": "374f3f6f1870b4b9f9f9357251c7fbdbf58752154aac54edc20f34d620d6dae9"
+    },
+    {
+      "path": "assets/sprites/equipment-levels-atlas-v1.png",
+      "bytes": 128637,
+      "sha256": "14f5dda3b495788c9d023b1b76c04f14367933d78440deb774a1fc641367ceb8"
+    },
+    {
+      "path": "assets/sprites/event-icons-a-v1.png",
+      "bytes": 83097,
+      "sha256": "3c8ab35afffc94551635d4906e3c792eec681138f0baf9490e13c7d9cbf0d2e4"
+    },
+    {
+      "path": "assets/sprites/event-icons-b-v1.png",
+      "bytes": 42822,
+      "sha256": "0072c3b58ca887b6b46a2846fd5cb6435377482f7ad2b29c9cedae0be88587e2"
+    },
+    {
+      "path": "assets/sprites/expansion-previews-atlas-v2.png",
+      "bytes": 330525,
+      "sha256": "05541d66da646067434d98c2cdcf5e7f28c3cf7fb14a79f0e2e68effe89bb8e2"
+    },
+    {
+      "path": "assets/sprites/furniture-tables-atlas-v1.png",
+      "bytes": 305156,
+      "sha256": "f5d8c0d1ab192f2e3deb8f237e3e712d2a3a365dc59a3c509fe1068926c04069"
+    },
+    {
+      "path": "assets/sprites/furniture-tables-shadow-v1.png",
+      "bytes": 10350,
+      "sha256": "79ed27d95039f2decfb03ad490d9504e639c5489b5f9505da13aeee534f1ef48"
+    },
+    {
+      "path": "assets/sprites/guidance-atlas-v1.png",
+      "bytes": 205388,
+      "sha256": "6079ab9d71e9afa4c962a9b51cf3988fa5a4381572e25d0d8c0e7ecee7ec3482"
+    },
+    {
+      "path": "assets/sprites/guides-actions-v1.png",
+      "bytes": 444748,
+      "sha256": "5b6aec4579fc24515f7aac012f49565e85c47db056eed731fc9c83ab5f0e3569"
+    },
+    {
+      "path": "assets/sprites/guides-kitchen-atlas-v1.png",
+      "bytes": 214287,
+      "sha256": "90e88b11fa12b21cdf3aa48c946c4acdad6c1c46234012143922f47de9baf27b"
+    },
+    {
+      "path": "assets/sprites/guides-kitchen-shadow-v1.png",
+      "bytes": 24279,
+      "sha256": "648fc1aeb9dae7d10e405f5f638406314c3e796020206fe517c6cb85d0248e58"
+    },
+    {
+      "path": "assets/sprites/help-actions-atlas-v1.png",
+      "bytes": 812934,
+      "sha256": "952d27c72c4122937b1c8a536854ff4e217b943c332d97a6aac8f6cf46153975"
+    },
+    {
+      "path": "assets/sprites/ingredients-atlas-v1.png",
+      "bytes": 319003,
+      "sha256": "555f65c4eed7c17e0b4c09e4e775ed931624e2636c090e27f5a121eb18b482d5"
+    },
+    {
+      "path": "assets/sprites/ingredients-extra-v1.png",
+      "bytes": 288446,
+      "sha256": "a43a30917d4ece9cfb32d3dc835e8fccc732d44d67f2fbccf2d9e5aeeeb2d2cc"
+    },
+    {
+      "path": "assets/sprites/iso-assistant-actions-v2.png",
+      "bytes": 524720,
+      "sha256": "3f4551a953d3bdefc965acf8536d6d7dabcad392a5ffec5487ea651ea228528c"
+    },
+    {
+      "path": "assets/sprites/iso-chef-actions-v2.png",
+      "bytes": 756236,
+      "sha256": "82b975f5095f7c5cc370af9347ff4d58855be18220c62541157e4be46f6c90b4"
+    },
+    {
+      "path": "assets/sprites/iso-city-v1.png",
+      "bytes": 709724,
+      "sha256": "e5a0cc056b86e94bfeec53f5c33b0ff28200b078f344aa0fe94ff0ebe726fed6"
+    },
+    {
+      "path": "assets/sprites/iso-cleaner-actions-v1.png",
+      "bytes": 683315,
+      "sha256": "323103149f2094a7c040efd3d8db4baf927947c1fdd6c00d7727a296f309eb81"
+    },
+    {
+      "path": "assets/sprites/iso-customer-actions-a-v1.png",
+      "bytes": 312940,
+      "sha256": "e07effe87c66f6af07117571584b315965cd09270dbea1e30174e41f38050aa0"
+    },
+    {
+      "path": "assets/sprites/iso-customer-actions-b-v1.png",
+      "bytes": 340410,
+      "sha256": "25af768340aac83c39158d4470329d9d76f10c3b9db0d1046bec65c84100ad99"
+    },
+    {
+      "path": "assets/sprites/iso-customer-actions-c-v1.png",
+      "bytes": 320383,
+      "sha256": "668400dec64852beffce36c5e54845f2772eda0d3005930b329d14aae0438ea6"
+    },
+    {
+      "path": "assets/sprites/iso-decor-atlas-v1.png",
+      "bytes": 1101465,
+      "sha256": "c2960115bb84f71c8e880ad73175cfe5a53089b0e21656055dfc8761bb14a1f6"
+    },
+    {
+      "path": "assets/sprites/iso-empty-plate-v1.png",
+      "bytes": 9950,
+      "sha256": "dced1b5e21aabf8ef8c13488f5704a8d009a14d6687cfbb080f55a8d9727a689"
+    },
+    {
+      "path": "assets/sprites/iso-equipment-upgrades-v1.png",
+      "bytes": 1104930,
+      "sha256": "a1a51ef4653cb3564be9607cdea9c7b895ae8f4a0190cee51355d4fce7b76937"
+    },
+    {
+      "path": "assets/sprites/iso-furniture-atlas-v1.png",
+      "bytes": 572312,
+      "sha256": "5920bbe11bfe4b6bb9fac33cb6973bab51b6f8aa773d1d78a1b3ab259d2e856f"
+    },
+    {
+      "path": "assets/sprites/iso-kitchen-atlas-v1.png",
+      "bytes": 1302059,
+      "sha256": "29cc627435c75a01db9c72031c0de03aaa87da53a0a90727c6fe572e2b6def00"
+    },
+    {
+      "path": "assets/sprites/iso-merchant-actions-v1.png",
+      "bytes": 217678,
+      "sha256": "1db6d8e137d28cb3547a9f19649b1c0a6e88514a8ea68dccd647c264bd9b3078"
+    },
+    {
+      "path": "assets/sprites/iso-neal-actions-v1.png",
+      "bytes": 190858,
+      "sha256": "931534a6e9ca397ed62b69d6df84d30d4f84e2dd314c1255d64314d600eecf4f"
+    },
+    {
+      "path": "assets/sprites/iso-service-carry-items-v1.png",
+      "bytes": 56239,
+      "sha256": "353913d3f1365bb542d39f4703ac355b15f86d14dd98903c83db1fdb81413953"
+    },
+    {
+      "path": "assets/sprites/iso-service-clean-front-v1.png",
+      "bytes": 566263,
+      "sha256": "7bfc59a4fc61c77dbd635617728be849ef219be5dda21d558b42076eef277f07"
+    },
+    {
+      "path": "assets/sprites/iso-waiter-actions-v1.png",
+      "bytes": 702737,
+      "sha256": "889012c577b62fb52a510dea7d5ccf70dbe38055505d99d0a4132355070bb025"
+    },
+    {
+      "path": "assets/sprites/iso-waiter-carry-v1.png",
+      "bytes": 462808,
+      "sha256": "316bb87c40aef3e7ff98803b5df747d0651afeb25828731e4ff4d4f1cbc6880e"
+    },
+    {
+      "path": "assets/sprites/iso-walk-cat-v1.png",
+      "bytes": 149377,
+      "sha256": "d36b9cb9c82e80b1170bc72dffa81fc3f609469cafdf6d97e4497ad9ad7cf8d2"
+    },
+    {
+      "path": "assets/sprites/iso-walk-chefs-a-v1.png",
+      "bytes": 420363,
+      "sha256": "db2246944f7acf44026db5a07a039eb8df6291a05af8760cf6b27ad32284fe7d"
+    },
+    {
+      "path": "assets/sprites/iso-walk-chefs-b-v1.png",
+      "bytes": 400231,
+      "sha256": "0dec237407e697f1735cc181bc65e21d4ad16ab51542d7b2f47facc5cde08622"
+    },
+    {
+      "path": "assets/sprites/iso-walk-cleaners-a-v1.png",
+      "bytes": 453785,
+      "sha256": "da9b5a7d0a699d60b9c7241b308d8d5f6dbd683f77fa2a385d8990fb42d42cf7"
+    },
+    {
+      "path": "assets/sprites/iso-walk-cleaners-b-v1.png",
+      "bytes": 447817,
+      "sha256": "c5406063a569968e405f2d2ca7d5b7ac70bb4576c53f5b99eb1864652e342217"
+    },
+    {
+      "path": "assets/sprites/iso-walk-customers-a-v1.png",
+      "bytes": 439941,
+      "sha256": "d2b4e5a29cae2d965cb95137b0d262f6c3963abc3a1f0b4d37f69984fea7edbe"
+    },
+    {
+      "path": "assets/sprites/iso-walk-customers-b-v1.png",
+      "bytes": 467707,
+      "sha256": "bdf9069dc40bdc66efc531d4c03b3c5b2257558c777f9ee20167216a5bcff966"
+    },
+    {
+      "path": "assets/sprites/iso-walk-customers-c-v1.png",
+      "bytes": 457884,
+      "sha256": "542b4e646da69162bb7b3ceb6e9760aea1fec698171ea717827fd0ba6b8c3e2d"
+    },
+    {
+      "path": "assets/sprites/iso-walk-customers-d-v1.png",
+      "bytes": 417032,
+      "sha256": "6d23867cf0f17ea3d9a8824f38c10f9e4703a4bc5669b36caeb0a2a8374cfa48"
+    },
+    {
+      "path": "assets/sprites/iso-walk-customers-e-v1.png",
+      "bytes": 677253,
+      "sha256": "d0bb56ed3732f68de028f2efbe469aa727ae73987d96d2e2b86b1116c10c0556"
+    },
+    {
+      "path": "assets/sprites/iso-walk-office-v1.png",
+      "bytes": 184291,
+      "sha256": "7187dd9e199db60598c858976c4a1566adcb9e8a4866f08ef05bec7dc30aae1c"
+    },
+    {
+      "path": "assets/sprites/iso-walk-waiters-a-v1.png",
+      "bytes": 415632,
+      "sha256": "e4fe8084fc33cf2499fbb38acd17dc587f78b33c26c799f7ce0bc5ed90a82ab0"
+    },
+    {
+      "path": "assets/sprites/iso-walk-waiters-b-v1.png",
+      "bytes": 389058,
+      "sha256": "910ca6baf3c321ae58921ec478f4789c76f7c1cf6586b697a694fe81e7f7573f"
+    },
+    {
+      "path": "assets/sprites/iso-walk-xiaoyue-v1.png",
+      "bytes": 183971,
+      "sha256": "8223432106e343bcc4fb52c9ccac5ad652d9a5750bd1f05e4cc12eb696dca381"
+    },
+    {
+      "path": "assets/sprites/iso-worktops-v1.png",
+      "bytes": 294010,
+      "sha256": "c48b78ff1c8963b1acac6e4d91292352bbd7b307dd989733c9f8ec64520278f3"
+    },
+    {
+      "path": "assets/sprites/kitchen-fixtures-atlas-v1.png",
+      "bytes": 432958,
+      "sha256": "d14c56e1159901206a5e712ff158b4a79573e68672d7e704d20a5c6e8083d41c"
+    },
+    {
+      "path": "assets/sprites/neal-sleep-atlas-v1.png",
+      "bytes": 128228,
+      "sha256": "f3dbc440c7def0df7b1f30cf13856ecb89ba5046f5e0b0377d0ee7cf8046b28c"
+    },
+    {
+      "path": "assets/sprites/recipe-dishes-v1.png",
+      "bytes": 418891,
+      "sha256": "c8b40382c9a25241eb3687c99ba27d7b07a9a9346597593dc568e15bddb46971"
+    },
+    {
+      "path": "assets/sprites/room-finishes-atlas-v1.png",
+      "bytes": 1199178,
+      "sha256": "a25c7743f5ca1eed9d98be03ef1f76e4aaa301367dc94990da67ce83119e029e"
+    },
+    {
+      "path": "assets/sprites/service-actions-v1.png",
+      "bytes": 467108,
+      "sha256": "b6a89b8be1c31a0f75bc3912b0621d1e83bd8abb7dff04232b150c8d2ce9858c"
+    },
+    {
+      "path": "assets/sprites/service-team-atlas-v1.png",
+      "bytes": 218350,
+      "sha256": "2d0da5944a5c2c5e6d81dc2cce883e4c60f756b651d97bf7447a5f2fce719d5b"
+    },
+    {
+      "path": "assets/sprites/service-team-shadow-v1.png",
+      "bytes": 24764,
+      "sha256": "e4bbe4aa9df15d56ffdd27f96a41c00d89b74be0453c83b3580435c6fcf95867"
+    },
+    {
+      "path": "assets/sprites/staff-candidates-shadow-v1.png",
+      "bytes": 42571,
+      "sha256": "8ed7b7e68d1ec5d107c89a1990f62461bb112cab01984414d75184f1c482a310"
+    },
+    {
+      "path": "assets/sprites/staff-motion-a-v1.png",
+      "bytes": 261041,
+      "sha256": "13dc304698059b8483f0bc48a423a366a6d62e4a659b54ee1c1c35d0851a4739"
+    },
+    {
+      "path": "assets/sprites/staff-motion-b-v1.png",
+      "bytes": 293624,
+      "sha256": "d9b6b08acc7c956f32331a31df5ac488fc02a1e0ed950482d64d086516086769"
+    },
+    {
+      "path": "assets/sprites/staff-motion-c-v1.png",
+      "bytes": 283050,
+      "sha256": "84a48234b9f789bc75f5ce395547c9453182387ebc9bb3904736e3b7345a8f3e"
+    },
+    {
+      "path": "assets/sprites/treasures-atlas-v1.png",
+      "bytes": 108369,
+      "sha256": "ac732bbb3d62f09a8e1c9f126e99d1520d9fbd13815ad1cacfa5904c2571bae6"
+    },
+    {
+      "path": "assets/sprites/ui-icons-atlas-v1.png",
+      "bytes": 90577,
+      "sha256": "f3ebfb2498042567217d39f55f45f662f1fa2f006ad10044ab133e34458eee07"
+    }
+  ],
+  "saves": "Current browser only, separate from developer preview; no bundled player data",
+  "debugInterface": false,
+  "uploaded": false,
+  "delivery": "GitHub Pages mobile B1",
+  "offlineHtmlSha256": "4c52f36c5d6aa6003c0a51a4c66950f5a162c493f7dda448dd73bea37cadff48"
+}
