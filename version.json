@@ -1,9 +1,9 @@
 {
-  "edition": "好友内测 B1",
-  "version": "0.1.0",
-  "createdAt": "2026-11-15T01:51:17.702Z",
-  "htmlSha256": "a080aeda6c9314deb877e638becc35819622a5918f734e63b4a4a91529a13ca3",
-  "htmlBytes": 37975468,
+  "edition": "好友内测 B3",
+  "version": "0.1.1",
+  "createdAt": "2026-11-15T11:03:53.354Z",
+  "htmlSha256": "8a12cfbe8adaa1c8ea7f030a79e8b80fa92306372ae1afedb706877da37dd269",
+  "htmlBytes": 38248427,
   "assets": [
     {
       "path": "assets/audio/click.wav",
@@ -281,6 +281,11 @@
       "sha256": "316bb87c40aef3e7ff98803b5df747d0651afeb25828731e4ff4d4f1cbc6880e"
     },
     {
+      "path": "assets/sprites/iso-waiter-idle-v1.png",
+      "bytes": 202085,
+      "sha256": "a16c6182cae39f7fe87cc76e1def7bae7232ee826d1760a0fb4bcae63a9e1ef6"
+    },
+    {
       "path": "assets/sprites/iso-walk-cat-v1.png",
       "bytes": 149377,
       "sha256": "d36b9cb9c82e80b1170bc72dffa81fc3f609469cafdf6d97e4497ad9ad7cf8d2"
@@ -424,6 +429,6 @@
   "saves": "Current browser only, separate from developer preview; no bundled player data",
   "debugInterface": false,
   "uploaded": false,
-  "delivery": "GitHub Pages mobile B1",
-  "offlineHtmlSha256": "58c9879fb88b5949ea6bfdbca75fae46794770a6dc67f7e09052a98cfdce836e"
+  "delivery": "GitHub Pages 好友内测 B3",
+  "offlineHtmlSha256": "eb0794574b74f04300cdf94fdff55d2bcb8aea82cc8af5370863669ee5971958"
 }
