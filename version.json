@@ -1,9 +1,9 @@
 {
   "edition": "好友内测 B1",
   "version": "0.1.0",
-  "createdAt": "2026-11-14T21:41:41.870Z",
-  "htmlSha256": "8bb56c3ba1cc159b03dda3eeca13d702241c1ea349301797abd25dd38f7cd3d9",
-  "htmlBytes": 37975322,
+  "createdAt": "2026-11-15T01:51:17.702Z",
+  "htmlSha256": "a080aeda6c9314deb877e638becc35819622a5918f734e63b4a4a91529a13ca3",
+  "htmlBytes": 37975468,
   "assets": [
     {
       "path": "assets/audio/click.wav",
@@ -425,5 +425,5 @@
   "debugInterface": false,
   "uploaded": false,
   "delivery": "GitHub Pages mobile B1",
-  "offlineHtmlSha256": "4c52f36c5d6aa6003c0a51a4c66950f5a162c493f7dda448dd73bea37cadff48"
+  "offlineHtmlSha256": "58c9879fb88b5949ea6bfdbca75fae46794770a6dc67f7e09052a98cfdce836e"
 }
